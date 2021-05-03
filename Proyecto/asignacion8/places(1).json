@@ -1,0 +1,27 @@
+{
+    "lugares" : [
+    {
+      "nombre": "Toro toro",
+      "ciudad": "Potosi",
+      "pais": "Bolivia",
+      "ubicacion": "",
+      "historia":"dfghjkl",
+      "AtractivosTuristicos" : [
+        "",
+        "",
+        ""      
+      ],
+      "gastronomia" : [
+        "",
+        "",
+        ""      
+      ],
+      "festividades" : [
+        "",
+        "",
+        ""      
+      ]
+    
+    }
+  ]
+}
